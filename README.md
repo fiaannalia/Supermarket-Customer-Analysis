@@ -194,3 +194,14 @@ Setiap metrik diskalakan (skor 1–4), lalu digabung menjadi **LRFM Score**. Sko
 * Tingkatkan pengalaman belanja di toko fisik & optimalkan UI/UX website.
 * Aktifkan kembali segmen Inactive dan Prospect melalui diskon, reminder, dan kampanye personal.
 
+## 📊 Tableau Dashboard
+
+🔗 **Tableau Dashboard**: [View Here](https://public.tableau.com/app/profile/annalia.alfia.rahma/viz/caps2_17442079552650/dbHome)
+
+<img width="1366" height="764" alt="{0C349767-94D1-4A4D-9CF6-B6450E1B6362}" src="https://github.com/user-attachments/assets/acb2dc75-f251-4bb0-89e0-5323b1521c5c" />
+<img width="1370" height="769" alt="{D9CBDB94-8A66-4707-A562-B425633DE9CE}" src="https://github.com/user-attachments/assets/85ed07b4-cd56-4e8d-a430-3dc148d53296" />
+<img width="1363" height="767" alt="{6C0B9F10-CAB7-4436-BB85-0FAFC77E45C8}" src="https://github.com/user-attachments/assets/de76f1b5-6826-4c8b-b445-251be2c67f74" />
+<img width="1365" height="767" alt="{A1DF79E6-E395-4680-8833-9C2603F65C9E}" src="https://github.com/user-attachments/assets/294f2fba-cf86-4374-a6d7-018ddc9a37d8" />
+
+
+
